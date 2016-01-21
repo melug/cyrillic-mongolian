@@ -1,6 +1,7 @@
 Mongolian-Cyrillic language's helper library.
 
 This library written based on 1983's Ts.Damdinsuren, B.Osor's "Монгол үсгийн дүрмийн толь" book. Only official book I can find.
+Link to the wikipedia entry "https://mn.wikipedia.org/wiki/Кирилл_монгол_бичгийн_дүрэм"
 
 Flaws:
 In Rule 9, did not mention its flaw in combined words. Follow up word should be defined by last word from its combination. For example: Батгэрэл, this is people's name. But combined from two different word "Бат", "Гэрэл". So follow up character should be defined by "Гэрэл". And there's no clear cut on splitting combined words without looking at the semantics.
